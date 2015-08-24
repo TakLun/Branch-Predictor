@@ -1,0 +1,8 @@
+45 <- Always Taken
+55 <- Always NT
+10 20 30 40 50 60 70 <- Single bit Bimodal predictors
+20 30 40 50 60 70 80 <- Two bit saturating Bimodal Predictors
+10 20 30 40 50 60 70 80 90 <- Gshare
+
+Note: This line any anything after the <- shouldn't actually be in the output,
+it is only given in this example to clarify what each line is.
